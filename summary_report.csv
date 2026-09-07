@@ -1,0 +1,12 @@
+Metric,Value
+Total Students,1000000.0
+Average Total Score,84.28
+Correlation: Study Hours vs Score,0.812
+Correlation: Attendance vs Score,-0.001
+Correlation: Participation vs Score,0.001
+At-Risk Students (z-score < -1.5),94882.0
+At-Risk %,9.49
+At-Risk Avg Study Hours,4.68
+Overall Avg Study Hours,15.03
+Grade A %,54.86
+Grade F %,0.62
